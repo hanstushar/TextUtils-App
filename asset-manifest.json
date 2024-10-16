@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanstushar.github.io/my-app/static/css/main.f855e6bc.css",
+    "main.js": "/hanstushar.github.io/my-app/static/js/main.6e1b8e2c.js",
+    "static/js/453.ed3810f9.chunk.js": "/hanstushar.github.io/my-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/hanstushar.github.io/my-app/index.html",
+    "main.f855e6bc.css.map": "/hanstushar.github.io/my-app/static/css/main.f855e6bc.css.map",
+    "main.6e1b8e2c.js.map": "/hanstushar.github.io/my-app/static/js/main.6e1b8e2c.js.map",
+    "453.ed3810f9.chunk.js.map": "/hanstushar.github.io/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6e1b8e2c.js"
+  ]
+}
